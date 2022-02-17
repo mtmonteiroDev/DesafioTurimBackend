@@ -1,0 +1,12 @@
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\obj\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.AssemblyInfoInputs.cache
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\obj\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.AssemblyInfo.cs
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\obj\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\bin\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.deps.json
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\bin\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.dll
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\bin\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.pdb
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\bin\Debug\netcoreapp3.1\DesafioTurim.Dominio.dll
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\bin\Debug\netcoreapp3.1\DesafioTurim.Dominio.pdb
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\obj\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.csprojAssemblyReference.cache
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\obj\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.csproj.CopyComplete
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\obj\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.dll
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.InfraEstrutura\obj\Debug\netcoreapp3.1\DesafioTurim.InfraEstrutura.pdb

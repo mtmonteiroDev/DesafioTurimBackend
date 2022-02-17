@@ -1,0 +1,9 @@
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.Dominio\bin\Debug\netcoreapp3.1\DesafioTurim.Dominio.deps.json
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.Dominio\bin\Debug\netcoreapp3.1\DesafioTurim.Dominio.dll
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.Dominio\bin\Debug\netcoreapp3.1\DesafioTurim.Dominio.pdb
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.Dominio\obj\Debug\netcoreapp3.1\DesafioTurim.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.Dominio\obj\Debug\netcoreapp3.1\DesafioTurim.Dominio.AssemblyInfo.cs
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.Dominio\obj\Debug\netcoreapp3.1\DesafioTurim.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.Dominio\obj\Debug\netcoreapp3.1\DesafioTurim.Dominio.dll
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.Dominio\obj\Debug\netcoreapp3.1\DesafioTurim.Dominio.pdb
+C:\Projetos\Desafio_Turim\BackEnd\DesafioTurim.Dominio\obj\Debug\netcoreapp3.1\DesafioTurim.Dominio.csprojAssemblyReference.cache
