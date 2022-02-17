@@ -1,4 +1,4 @@
-# Projeto Backend - Desafio TUTIM
+# Projeto Backend - Desafio TURIM
 
 Projeto desenvolvido para avaliação técnica
 
